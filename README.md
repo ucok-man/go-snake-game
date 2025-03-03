@@ -4,8 +4,8 @@
 
 2. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/8event-minpro-pwd.git
-   cd 8event-minpro-pwd
+   git clone https://github.com/ucok-man/go-snake-game.git
+   cd go-snake-game
    ```
 3. Install dependencies:
    ```sh
